@@ -3,7 +3,7 @@
 
 
 def display_rainbow (colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  puts "Hello, #{colors}"
+  puts "R: #{[]}"
 end
 
 display_rainbow
